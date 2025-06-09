@@ -1,6 +1,6 @@
-# PBS Self-Backup Script (vm/100)
+# PBS Self-Backup Script
 
-Ce script permet de réaliser une sauvegarde automatique du système PBS lui-même, en tant que VM 100, directement dans un dépôt PBS distant via `proxmox-backup-client`. Il envoie ensuite un rapport avec les logs vers un canal Discord.
+Ce script permet de réaliser une sauvegarde automatique du système PBS lui-même, en tant que VM, directement dans un dépôt PBS distant via `proxmox-backup-client`. Il envoie ensuite un rapport avec les logs vers un canal Discord.
 
 ---
 
